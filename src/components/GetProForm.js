@@ -13,7 +13,7 @@ import getProgasImg from '../images/get.png';
 import Bike from '../images/bike1.png';
 
 const endpoints = {
-  contact: 'http://localhost:9000/sendSms',
+  contact: 'https://progas-website.netlify.app/.netlify/functions/sendSms',
 };
 
 const axios = require('axios');
