@@ -125,12 +125,12 @@ Slider Styles
 Social Media Styles
 ===============
 */
-@media (max-width: 767px) {
+@media (max-width: 900px) {
   div.social-row {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding-left: 0em;
+    padding-left: 0rem;
   }
 }
 
@@ -439,6 +439,13 @@ ProGas Forms Footer Styles
 
   div.form-container {
     margin-bottom: 3rem;
+    margin-top: 2rem;
+  }
+
+  div.become-pro h1 {
+    font-size: 28px;
+    text-align: center;
+    margin-left: 3.3rem;
   }
 
   img.progaimg {
@@ -534,7 +541,7 @@ ProGas Forms Footer Styles
 }
 
 .progaimg {
-  margin-top: 8.5rem;
+  margin-top: 7.5rem;
 }
 
 .pro-btn {

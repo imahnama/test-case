@@ -33,7 +33,4 @@ export default [
   {
     number: Image4,
   },
-  {
-    number: Image1,
-  },
-];
+]
